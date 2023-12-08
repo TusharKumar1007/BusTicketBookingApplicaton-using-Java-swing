@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
  */
 public class BookingDetails extends javax.swing.JInternalFrame {
     String dbUsername="root";
-    String dbrootPassword="tiger";
+    String dbrootPassword="";
     /**
      * Creates new form BookingDetails
      */

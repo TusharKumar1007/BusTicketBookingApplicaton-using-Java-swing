@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
  */
 public class NewUser extends javax.swing.JFrame {
     String dbUsername="root";
-    String dbrootPassword="tiger";
+    String dbrootPassword="";
     /**
      * Creates new form NewUser
      */

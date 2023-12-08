@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
  */
 public class AssignBus extends javax.swing.JInternalFrame {
     String dbUsername="root";
-    String dbrootPassword="tiger";
+    String dbrootPassword="";
     /**
      * Creates new form AssignBus
      */

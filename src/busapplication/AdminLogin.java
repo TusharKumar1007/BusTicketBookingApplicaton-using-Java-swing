@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
  */
 public class AdminLogin extends javax.swing.JFrame {
     String dbUsername="root";
-    String dbrootPassword="tiger";
+    String dbrootPassword="";
     /**
      * Creates new form AdminLogin
      */

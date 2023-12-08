@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
  */
 public class AddEmployee extends javax.swing.JInternalFrame {
     String dbUsername="root";
-    String dbrootPassword="tiger";
+    String dbrootPassword="";
     /**
      * Creates new form AddEmployee
      */

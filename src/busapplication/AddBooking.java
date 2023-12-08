@@ -32,7 +32,7 @@ import javax.swing.table.TableModel;
 public class AddBooking extends javax.swing.JInternalFrame {
 
     String dbUsername = "root";
-    String dbrootPassword = "tiger";
+    String dbrootPassword = "";
     /**
      * Creates new form AddBooking
      */

@@ -22,7 +22,7 @@ import javax.swing.table.DefaultTableModel;
  */
 public class UserControlPanel extends javax.swing.JFrame {
     String dbUsername="root";
-    String dbrootPassword="tiger";
+    String dbrootPassword="";
     /**
      * Creates new form UserControlPanel
      */

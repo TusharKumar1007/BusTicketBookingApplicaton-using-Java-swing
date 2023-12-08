@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
  */
 public class AllBusDetails extends javax.swing.JInternalFrame {
     String dbUsername="root";
-    String dbrootPassword="tiger";
+    String dbrootPassword="";
     /**
      * Creates new form AllBusDetails
      */
